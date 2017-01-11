@@ -1,10 +1,10 @@
 # Exercise-3: Calling built-in functions
 
 # Create a variable `my.name` that contains your name
-
+my.name -> juhwan(eugene)
 
 # Create a variable `name.length` that holds how many letters are in your name (use the `nchars()` function)
-
+name.legth -> 9
 
 # Print the number of letters in your name
 
